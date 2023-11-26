@@ -131,8 +131,16 @@ nav ul li{
       background-color: red;
     }
 
+    h1{
+        font-size: larger;
+    }
+
     .songItemContainer{
         margin-top: 74px;
+    }
+
+    .icons {
+        margin-top: 50px;
     }
     
     .songItem{

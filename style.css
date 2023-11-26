@@ -119,4 +119,27 @@ nav ul li{
     body {
       background-color: red;
     }
+    .songItemContainer{
+        margin-top: 74px;
+    }
+    
+    .songItem{
+        height: 70px;
+        display: flex;
+        background-color: white;
+        
+        color: black;
+        margin: 12px 0;
+        justify-content: space-between;
+        align-items: center;
+        border-radius: 34px;
+    }
+    
+    .songItem img{
+        width: 43px;
+        margin: 0 23px;
+        border-radius: 34px;
+    }
+    
+
   }

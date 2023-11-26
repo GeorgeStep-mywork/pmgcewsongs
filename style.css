@@ -191,4 +191,9 @@ nav ul li{
     margin-top: 50px;
 }
 }
-  
+
+@media only screen and (max-width: 775px) {
+    .timestamp {
+        display: grid;
+    }
+}

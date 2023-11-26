@@ -14,7 +14,7 @@ let songs = [
     {songName: "Enikkaay Swaputhrane Thannavan - Blessan Cherian", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
     {songName: "Daivathin Sneham Ha Ethra Sreshtam", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
     {songName: "Yet Not I, But Through Christ In Me", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
-    {songName: "Agnus Dei / Thooyarae Thooyarae", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
+    {songName: "Agnus Dei / Thooyarae Thooyarae", filePath: "songs/5.mp3", coverPath: "covers/5.jpeg"},
     {songName: "Rabba - Salam-e-Ishq", filePath: "songs/2.mp3", coverPath: "covers/6.jpg"},
     {songName: "Sakhiyaan - Salam-e-Ishq", filePath: "songs/2.mp3", coverPath: "covers/7.jpg"},
     {songName: "Bhula Dena - Salam-e-Ishq", filePath: "songs/2.mp3", coverPath: "covers/8.jpg"},

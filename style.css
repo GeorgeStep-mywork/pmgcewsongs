@@ -130,6 +130,7 @@ nav ul li{
     body {
       background-color: red;
     }
+
     .songItemContainer{
         margin-top: 74px;
     }
@@ -144,13 +145,17 @@ nav ul li{
         justify-content: space-between;
         align-items: center;
         border-radius: 34px;
+        padding-left: 20px;
+        font-weight: 500;
     }
     
     .songItem img{
         width: 43px;
         margin: 0 23px;
         border-radius: 34px;
-    }
-    
+        display: none;
+    }   
+  }
 
+  @media only screen and (max-width: 806px) {
   }

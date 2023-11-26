@@ -115,6 +115,17 @@ nav ul li{
     transition: opacity 0.4s ease-in;
 }
 
+@media only screen and (min-device-width : 1247px){ 
+    .lapShow {display: inline;}
+
+.mobileShow {display: none;}
+}
+
+@media only screen and (max-device-width : 1246px){ 
+    .mobileShow {display: inline;}
+    .lapShow {display: none;}
+}
+
 @media only screen and (max-width: 1100px) {
     body {
       background-color: red;
@@ -124,7 +135,7 @@ nav ul li{
     }
     
     .songItem{
-        height: 70px;
+        height: 90px;
         display: flex;
         background-color: white;
         

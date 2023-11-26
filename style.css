@@ -97,7 +97,8 @@ nav ul li{
 }
 
 .timestamp{
-    margin: 0 23px;
+    margin: 0 0px;
+    padding-right: 40px;
 }
 
 .timestamp i{
@@ -169,7 +170,25 @@ nav ul li{
             overflow: hidden;
             text-overflow: ellipsis;
       }
+
+      .songInfo{
+        position: absolute;
+        left: 10vw;
+        font-family: 'Varela Round', sans-serif;
+        margin-top: -30px;
+    }
   }
 
-  @media only screen and (max-width: 806px) {
+  @media only screen and (max-width: 1348px) {
+
+    .songInfo{
+        position: absolute;
+        left: 10vw;
+        font-family: 'Varela Round', sans-serif;
+        margin-top: -20px;
   }
+  .icons {
+    margin-top: 50px;
+}
+}
+  

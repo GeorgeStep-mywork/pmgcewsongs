@@ -196,4 +196,11 @@ nav ul li{
     .timestamp {
         display: grid;
     }
+    .mobileSlide {display: inline;}
+    .lapSlide {display: none;}
+}
+@media only screen and (min-device-width : 776px){ 
+    .lapSlide {display: inline;}
+
+.mobileSlide {display: none;}
 }

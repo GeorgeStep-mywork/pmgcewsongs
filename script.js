@@ -12,7 +12,7 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
     {songName: "All Heavens Declare / I Stand Amazed (How Marvelous)", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
-    {songName: "Enikkaay Swaputhrane Thannavan - Blessan Cherian", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
+    {songName: "Enikkaay Swaputhrane Thannavan", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
     {songName: "Daivathin Sneham Ha Ethra Sreshtam", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
     {songName: "Yet Not I, But Through Christ In Me", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
     {songName: "Agnus Dei / Thooyarae Thooyarae", filePath: "songs/5.mp3", coverPath: "covers/5.jpeg"},
